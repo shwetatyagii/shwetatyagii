@@ -3,7 +3,7 @@
 I am Shweta Tyagi, currently persuing BTech CSE at Panipat Institute of Enginnering and technlogy. I am a begginning level developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/Linked%20In-Shweta%20Tyagi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shweta-tyagi-b09285263)](https://www.linkedin.com/in/shweta-tyagi-b09285263)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-shwetatyagi489%40gmail.com-red)]
+![Gmail Badge](https://img.shields.io/badge/Gmail-shwetatyagi489%40gmail.com-red)
 
 ## ⚡ Technologies
 
