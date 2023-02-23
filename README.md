@@ -5,7 +5,6 @@ I am Shweta Tyagi, currently persuing BTech CSE at Panipat Institute of Enginner
 [![Linkedin Badge](https://img.shields.io/badge/Linked%20In-Shweta%20Tyagi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shweta-tyagi-b09285263)](https://www.linkedin.com/in/shweta-tyagi-b09285263)
 [![Gmail Badge](https://img.shields.io/badge/-shwetatyagi489@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shwetatyagi489@gmail.com](mailto:shwetatyagi489@gmail.com)
 
-
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
